@@ -1,51 +1,51 @@
-📌 About the Project
+📌** About the Project**
 
 This project is a Doctor-Oriented Patient Management System developed with Flutter.
 It uses Sqflite for local database management and GetX for synchronization between database and UI.
 
-🔹 Features
+🔹 **Features**
 
-📱 General
+📱 **General**
 
-Splash Screen at startup
+- Splash Screen at startup
 
-Login screen (new users can create an account if not registered)
+- Login screen (new users can create an account if not registered)
 
-👨‍⚕️ Patient Management
+👨‍⚕️ **Patient Management**
 
-Add new patient records
+- Add new patient records
 
-View patient list
+- View patient list
 
-Edit patient information
+- Edit patient information
 
-Delete patient records
+- Delete patient records
 
-Restore deleted records (Undo / Restore feature)
+- Restore deleted records (Undo / Restore feature)
 
-Filter and search patients
+- Filter and search patients
 
-📊 Statistics
+📊 **Statistics**
 
-View patient-related statistics
+- View patient-related statistics
 
 ⚙️ Settings
 
-Delete all data
+- Delete all data
 
-Backup data
+- Backup data
 
-Switch between dark / light theme
+- Switch between dark / light theme
 
 🛠️ Tech Stack
 
-Flutter
+-Flutter
 
-Dart
+-Dart
 
-Sqflite (local database)
+-Sqflite (local database)
 
-GetX (state management)
+-GetX (state management)
 
 
 
