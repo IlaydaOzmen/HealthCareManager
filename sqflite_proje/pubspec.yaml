@@ -1,0 +1,44 @@
+name: sqflite_proje
+description: Gelişmiş hasta yönetim sistemi
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  # Google ML Kit yerine güncel paketler
+  google_mlkit_text_recognition: ^0.10.0
+  google_mlkit_barcode_scanning: ^0.8.0
+  google_mlkit_document_scanner: ^0.2.0
+  get: 4.6.6
+  image_picker: ^1.1.2
+  path_provider: ^2.1.4
+  sqflite: ^2.3.3
+  intl: ^0.19.0
+  uuid: ^4.0.0
+  google_fonts: ^6.2.1
+  # Eksik paketler
+  flutter_staggered_animations: ^1.1.1
+  shimmer: ^3.0.0
+  image_cropper: ^8.0.2
+  # Charts için güncel alternatif
+  fl_chart: ^0.69.0
+  pdf: ^3.11.1
+  printing: ^5.13.2
+  share_plus: ^10.0.2
+  flutter_gemini: ^2.0.5
+  shared_preferences: ^2.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
