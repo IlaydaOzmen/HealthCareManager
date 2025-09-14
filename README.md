@@ -47,12 +47,3 @@ It uses Sqflite for local database management and GetX for synchronization betwe
 
 -GetX (state management)
 
-
-
-
-
-
-
-
-
-v
